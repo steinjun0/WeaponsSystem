@@ -10,12 +10,17 @@ Create Common Weapon System with UE5 Mannequin Skeleton to Use Other Project Eas
 
 ## Implemented Abilities
 1. Gun Class
->- physical simulated as default
->- physical unsimulated when pawn pick up
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- physical simulated as default
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- physical unsimulated when pawn pick up
+
 2. Find weapons and attach the nearest weapon to actor
 3. detach weapon
 4. Retargetd Animation Starter Pack from UE4 to UE5 Mannequin [post](https://stein-log.tistory.com/72).
 5. Animation
->- (default) idle/run/walk/jump/fall
->- (rifle) idle/run/walk/aiming(ironsight)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- (default) idle/run/walk/jump/fall
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- (rifle) idle/run/walk/aiming(ironsight)
   
