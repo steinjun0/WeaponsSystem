@@ -1,8 +1,9 @@
 # WeaponsSystem
 Create Weapon System with UnrealEgine Blueprint
 
-![main Image](https://user-images.githubusercontent.com/54354459/186127870-72c26f1b-f0bd-4ae3-adc5-0a9076be234c.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54354459/186127870-72c26f1b-f0bd-4ae3-adc5-0a9076be234c.png" alt="drawing" width="500"/>
+</p>
 You can check my Unreal Projects from by [blog](https://stein-log.tistory.com/category/Programming/UnrealEngine).
 
 ## Project Goals
